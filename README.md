@@ -24,7 +24,7 @@ I have strong fundamentals in **C language** and I'm currently learning **Python
 
 ## 🌱 Currently Learning
 
-- 🐍 Python Programming  
+- Python Programming  
 - Object-Oriented Concepts  
 - Automation basics  
 - Problem solving techniques  
