@@ -40,14 +40,7 @@ I have strong fundamentals in **C language** and I'm currently learning **Python
 
 ---
 
-## 📂 Projects
 
-- 🏦 Bank Management System (C)  
-- 🎮 Console Games  
-- 🔢 Practice Programs  
-*(More projects coming soon!)*
-
----
 
 ## 🤝 Connect & Collaborate
 
