@@ -1,64 +1,97 @@
-# 👩‍💻 Mansi Patil  
+# Hi there, I'm Mansi Patil 👋
 
-🎓 **Engineering Student | C Programmer | Python Learner**
+### 💻 Computer Engineering Student | C Programmer | Java & Python Learner
 
-Hi! I'm **Mansi Patil**, an engineering student passionate about programming and problem-solving.  
-I have strong fundamentals in **C language** and I'm currently learning **Python** to expand my technical skills and build practical projects.
-
----
-
-## 🛠️ Skills
-
-- 💻 **Programming Languages**
-  - C (Strong fundamentals, data structures, logic building)
-  - Python (Beginner – learning and practicing)
-
-- 🧠 **Core Concepts**
-  - Loops & Functions  
-  - Arrays & Strings  
-  - Pointers & Structures  
-  - File Handling  
-  - Basic Algorithms  
+Passionate about **software development**, **problem-solving**, and building projects that solve real-world problems. I'm constantly learning new technologies and improving my programming skills through hands-on development.
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 About Me
 
-- Python Programming  
-- Object-Oriented Concepts  
-- Automation basics  
-- Problem solving techniques  
-
----
-
-## 🚀 Goals
-
-- Become a strong software developer  
-- Build real-world projects  
-- Improve coding efficiency  
-- Participate in hackathons and coding contests  
+* 🎓 Computer Engineering Student
+* 💻 Strong foundation in **C Programming**
+* ☕ Currently learning **Java**
+* 🐍 Exploring **Python**
+* 📚 Learning **Data Structures & Algorithms**
+* 🌱 Interested in Software Development & Automation
+* 🎯 Goal: Become a skilled Software Engineer
 
 ---
 
+## 🛠 Tech Stack
 
+### 👨‍💻 Languages
 
-## 🤝 Connect & Collaborate
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-Feel free to explore my repositories and collaborate on learning projects.
+### 📖 Currently Learning
 
-⭐ Always learning. Always improving.
+* ☕ Java Programming
+* 🧠 Object-Oriented Programming (OOP)
+* 📊 Data Structures & Algorithms
+* 🗄 SQLite Database
+* 🔧 Git & GitHub
+* 🖥 Tkinter GUI Development
 
-<!--
-**mansii1007/mansii1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Student Management System
+* 💰 Smart Expense Manager
+* 🏦 Bank Management System
+* 🧮 Calculator
+* ❌ Tic Tac Toe
+* 📚 Student Database System
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Master Java
+* ✅ Improve DSA Skills
+* ✅ Build Advanced Python Projects
+* ✅ Participate in Hackathons
+* ✅ Contribute to Open Source
+* ✅ Create More Real-World Applications
+
+---
+
+## 📊 Skills
+
+✔ Problem Solving
+
+✔ File Handling
+
+✔ Arrays & Strings
+
+✔ Functions
+
+✔ Structures
+
+✔ Pointers
+
+✔ SQLite Basics
+
+✔ Object-Oriented Programming
+
+---
+
+## 📈 Current Focus
+
+```text
+💻 Learning Java
+📚 Practicing DSA
+🐍 Building Python Projects
+🚀 Growing as a Software Developer
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating on projects, and exploring new technologies.
+
+⭐ **Thanks for visiting my profile! Happy Coding!** 🚀
