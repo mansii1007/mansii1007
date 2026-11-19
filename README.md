@@ -1,6 +1,6 @@
 # Hi, I'm Mansi Patil 👋
 
-**Computer Engineering student** at [Konkan Gyanpeeth College of Engineering](https://www.kgce.edu.in/), Karjat (University of Mumbai) · 2025–2029
+**Computer Engineering student** at [Konkan Gyanpeeth College of Engineering](https://kgce.edu.in/), Karjat (University of Mumbai) · 2025–2029
 
 I enjoy building practical desktop and console apps in **C**, **Python** and **Java**. I'm also a lifestyle content creator at [The Mau Tales](https://mautales.vercel.app).
 
