@@ -1,110 +1,97 @@
-# Hi there, I'm Mansi Patil 👋
+# Hi, I'm Mansi Patil 👋
 
-### 💻 Computer Engineering Student | C Programmer | Java & Python Learner
+**Computer Engineering student** at [Konkan Gyanpeeth College of Engineering](https://www.kgce.edu.in/), Karjat (University of Mumbai) · 2025–2029
 
-Passionate about **software development**, **problem-solving**, and building projects that solve real-world problems. I enjoy learning new technologies and creating applications that strengthen my programming and development skills.
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Engineering Student
-* 💻 Strong foundation in **C Programming**
-* ☕ Currently learning **Java**
-* 🐍 Exploring **Python**
-* 📚 Learning **Data Structures & Algorithms**
-* 🌱 Interested in Software Development & GUI Applications
-* 🎯 Goal: Become a Software Engineer
+I enjoy building practical desktop and console apps in **C**, **Python** and **Java**. I'm also a lifestyle content creator at [The Mau Tales](https://mautales.vercel.app).
 
 ---
 
-## 🛠️ Tech Stack
+## About me
 
-### 👨‍💻 Languages
-
-* C
-* Java (Learning)
-* Python (Learning)
-
-### 📖 Currently Learning
-
-* Java Programming
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* SQLite Database
-* Git & GitHub
-* Tkinter GUI Development
+- 🎓 B.E. Computer Engineering, KGCE, Karjat
+- 💻 Comfortable with C, Python and Java
+- 🧰 Getting familiar with C++, HTML, CSS and JavaScript
+- 📚 Currently learning Data Structures and Algorithms
+- 🎬 I make vlogs, travel, fashion and lifestyle content
+- 🎯 Goal: become a software engineer
 
 ---
 
-# 📂 Featured Projects
+## Tech stack
 
-### 🎬 CineBook – Movie Ticket Booking System
+**Core**
 
-A desktop application developed using **Python, Tkinter, and SQLite** that allows users to browse movies, select seats, book tickets, manage bookings, and generate digital tickets through a modern GUI.
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Features**
+**Also exploring**
 
-* 👤 User Login & Registration
-* 🎥 Browse Movies
-* 🏢 Theatre & Show Selection
-* 💺 Interactive Seat Booking
-* 💳 Payment Simulation
-* 🎟 Ticket Generation
-* 📜 Booking History
-* 📊 Admin Dashboard
-
----
-
-### 🎓 Student Management System
-
-Manage student records with CRUD operations, search functionality, and database integration.
-
-### 💰 Smart Expense Manager
-
-Track daily expenses, categorize spending, and maintain financial records.
-
-### 🏦 Bank Management System
-
-A banking application supporting account creation, deposits, withdrawals, balance inquiries, and transaction history.
-
-### 🧮 Calculator
-
-A Python calculator with arithmetic operations and a clean interface.
-
-### ❌ Tic Tac Toe
-
-A classic two-player game built using Python.
-
-### 📚 Student Database System
-
-A database-driven application for storing and managing student information.
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## 🎯 2026 Goals
+## Featured projects
 
-* ✅ Master Java Programming
-* ✅ Strengthen Data Structures & Algorithms
-* ✅ Build Advanced Python Projects
-* ✅ Participate in Hackathons
-* ✅ Contribute to Open Source
-* ✅ Develop Real-World Applications
+### Python
+
+| Project | Description |
+| --- | --- |
+| [CampusHub](https://github.com/mansii1007/CampusHub) | College management desktop app (Tkinter + SQLite) with admin, faculty and student logins, attendance, marks, fees, library and timetable |
+| [CineBook](https://github.com/mansii1007/CineBook) | Movie ticket booking desktop app with seat selection, snacks, payment simulation, QR tickets and an admin dashboard |
+| [Student Management](https://github.com/mansii1007/student_management) | Tkinter + SQLite student records app with add, update, delete, search and automatic grade calculation |
+| [Snake Game](https://github.com/mansii1007/Snake-game) | Classic Snake game in Pygame, with score tracking, pause, and simple particle effects |
+
+### Java
+
+| Project | Description |
+| --- | --- |
+| [Unit & Currency Converter](https://github.com/mansii1007/unit-currency-converter) | Java Swing converter for length, weight, temperature, speed and time, plus currency with live rates and offline fallback |
+| [Parking Lot Management System](https://github.com/mansii1007/parking-lot-management-system) | Menu-driven OOP console app for cars, bikes and trucks, with multi-floor slots, hourly billing and file persistence |
+
+### C
+
+| Project | Description |
+| --- | --- |
+| [Smart Expense Manager](https://github.com/mansii1007/smart-expense-manager-c) | Console expense tracker with categories, a monthly budget, simple analytics and binary file storage |
+| [Bank Management System](https://github.com/mansii1007/bank-management-c) | Create accounts, deposit, withdraw and check balances for up to 100 customers |
+| [Student Database](https://github.com/mansii1007/student-database-c) | Add, view, search and delete student records, saved in a binary file |
+| [KBC Quiz](https://github.com/mansii1007/KBC-c) | Console quiz inspired by *Kaun Banega Crorepati*, with a 50-50 lifeline and colored output |
+| [Calculator](https://github.com/mansii1007/calculator-c) | Menu-driven calculator for addition, subtraction, multiplication, division, modulus and power |
+| [Tic-Tac-Toe](https://github.com/mansii1007/tic-tac-toc.c) | Two-player console Tic-Tac-Toe with win and draw detection |
 
 ---
 
-## 📈 Current Focus
+## Currently learning
 
-* ☕ Learning Java
-* 📚 Practicing DSA
-* 🐍 Building Python Projects
-* 🎬 Developing GUI-based Applications
-* 🚀 Improving Problem-Solving Skills
+- Data Structures and Algorithms
+- Stronger OOP design and Java desktop apps
+- C++, HTML, CSS and JavaScript
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
-I'm always excited to learn, collaborate, and contribute to meaningful projects.
+- [LinkedIn](https://www.linkedin.com/in/mansi-patil-478b933a2)
+- [The Mau Tales](https://mautales.vercel.app)
+- [YouTube](https://www.youtube.com/@MansiMauu)
+- [Instagram](https://www.instagram.com/_mansiiipatil/)
+- Email: [mansip1007@gmail.com](mailto:mansip1007@gmail.com)
 
-⭐ **Thanks for visiting my profile! Happy Coding!** 🚀
+---
+
+## GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mansii1007&show_icons=true&theme=transparent&hide_border=true" alt="Mansi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansii1007&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+Thanks for visiting my profile!
