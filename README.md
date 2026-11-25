@@ -27,18 +27,10 @@
 ## 🛠️ Tech stack
 
 <p align="center"><b>Core</b><br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,py,java,git,github,vscode,sqlite&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,py,java,git,github,vscode,sqlite&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,py,java,git,github,vscode,sqlite&theme=light" alt="C, Python, Java, Git, GitHub, VS Code, SQLite" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=c,py,java,git,github,vscode,sqlite" alt="C, Python, Java, Git, GitHub, VS Code, SQLite" />
 </p>
 <p align="center"><b>Exploring</b><br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,html,css,js&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,html,css,js&theme=light" />
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js&theme=light" alt="C++, HTML, CSS, JavaScript" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js" alt="C++, HTML, CSS, JavaScript" />
 </p>
 
 ## 🚀 Featured projects
@@ -99,9 +91,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mansii1007&show_icons=true&include_all_commits=true&count_private=true&card_width=420&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8&disable_animations=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mansii1007&show_icons=true&include_all_commits=true&count_private=true&card_width=420&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de&border_radius=8&disable_animations=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mansii1007&show_icons=true&include_all_commits=true&count_private=true&card_width=420&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de&border_radius=8&disable_animations=true" alt="GitHub stats" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mansii1007&show_icons=true&card_width=420&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8&disable_animations=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mansii1007&show_icons=true&card_width=420&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de&border_radius=8&disable_animations=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mansii1007&show_icons=true&card_width=420&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de&border_radius=8&disable_animations=true" alt="GitHub stats" height="165" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mansii1007&layout=compact&langs_count=6&card_width=340&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8&disable_animations=true" />
